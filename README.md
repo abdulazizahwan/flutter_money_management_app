@@ -24,7 +24,7 @@ A new Flutter Money Management application.
 
 **Moora Money Management App Final UI**
 
-[![Finance App UI Design](https://assets.materialup.com/uploads/05be3975-c0da-4b17-a384-29d74f449557/preview.png)](https://www.uplabs.com/posts/moora-money-managing-app-ui-concept)
+[![Moora Money Management App UI Design](https://assets.materialup.com/uploads/05be3975-c0da-4b17-a384-29d74f449557/preview.png)](https://www.uplabs.com/posts/moora-money-managing-app-ui-concept)
 
 
 
