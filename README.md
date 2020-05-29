@@ -2,7 +2,7 @@
 
 A new Flutter Money Management application.
 
-# Finance App UI Design - Flutter UI Best Practice
+# Moora Money Management App UI Design - Flutter UI Best Practice
 
 ## [Watch it on YouTube](https://youtu.be/IyFUW7JAvTQ)
 
